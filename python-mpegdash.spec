@@ -2,7 +2,7 @@
 
 Name:		python-%{module}
 Version:	0.4.1
-Release:	1
+Release:	2
 Summary:	MPEG-DASH MPD(Media Presentation Description) Parser
 Source0:	https://files.pythonhosted.org/packages/source/m/%{module}/%{module}-%{version}.tar.gz
 URL:		https://github.com/sangwonl/python-mpegdash
